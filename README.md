@@ -2,7 +2,7 @@
 
 Play Framework 2.3 (Java) で Mirage + Spring の Transactional を使うサンプルです。  
 
-[XenonAbe/dbflute-play-guice-java-example](https://github.com/XenonAbe/dbflute-play-guice-java-example/blob/master/build.sbt) を参考に作成しました。
+[XenonAbe/dbflute-play-guice-java-example](https://github.com/XenonAbe/dbflute-play-guice-java-example/blob/master/build.sbt) を参考に作成しました。  
 （Springの@Transactionalを利用するための設定などはそのままです。）
 
 その他 参考URL
